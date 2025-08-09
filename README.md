@@ -75,7 +75,7 @@ Where you go from there is up to you — but remember:
 ## 🎲 Getting Started  
 
 - **Tone** – Political intrigue 🕵️ meets high adventure 🗺️, with strange technology and dangerous magic.  
-- **Levels** – The campaign starts at **Level 3** 🎯, where the dangers (and rewards) truly begin.  
+- **Levels** – The campaign starts at **Level 2** 🎯, where the dangers (and rewards) truly begin.  
 - **Session 0** – We’ll establish character ties 🤝, faction loyalties, and shared history.  
 
 ---
